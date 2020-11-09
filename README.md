@@ -5,7 +5,7 @@ I'm Sleeba Paul, currently working as a Machine Learning Engineer at [Perleybroo
 - [TEDx Talk](https://www.youtube.com/watch?v=23PajuCpmwM)
 - [PyData Talk](https://www.youtube.com/watch?v=Hz3cYVu_CFo)
 
-#### 👨‍💻 Side projects 
+#### 👨‍💻 Projects 
 
 - [Auria Kathi - An AI artist in the clouds](https://auriakathi.com/)
 - [Gospels of LSTMs - How I generated 5th gospel of Bible using Machine Learning](https://sleebapaul.github.io/gospel-of-lstms/)
