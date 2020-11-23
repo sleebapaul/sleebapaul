@@ -1,4 +1,4 @@
-I'm Sleeba Paul, currently working as a Machine Learning Engineer at [Perleybrook Labs](https://perleybrook.com/). 
+I'm Sleeba Paul, currently working as a Machine Learning Engineer at [Ericsson Global AI Accelerator](https://www.ericsson.com/en/press-releases/2/2018/12/ericsson-establishes-a-global-artificial-intelligence-accelerator-gaia-in-india). 
 
 #### 🎤 Talks
 
