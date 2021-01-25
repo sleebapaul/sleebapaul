@@ -2,8 +2,9 @@ I'm Sleeba Paul, currently working as a Machine Learning Engineer at [Ericsson G
 
 #### 🎤 Talks
 
-- [TEDx Talk](https://www.youtube.com/watch?v=23PajuCpmwM)
-- [PyData Talk](https://www.youtube.com/watch?v=Hz3cYVu_CFo)
+- [TEDx](https://www.youtube.com/watch?v=23PajuCpmwM)
+- [PyData](https://www.youtube.com/watch?v=Hz3cYVu_CFo)
+- [Indian Science Fest](https://www.youtube.com/watch?v=cKiqSIjZDuI&t=1s)
 
 #### 👨‍💻 Projects 
 
