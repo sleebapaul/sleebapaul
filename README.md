@@ -10,7 +10,8 @@ I'm Sleeba Paul, currently working as a Machine Learning Engineer at [Ericsson G
 
 - [Auria Kathi - An AI artist in the clouds](https://auriakathi.com/)
 - [Gospels of LSTMs - How I generated 5th gospel of Bible using Machine Learning](https://sleebapaul.github.io/gospel-of-lstms/)
-- 
+- [PyThesaurus - A pip package to retreive synonyms, definition etc. from web (Archived)](https://pypi.org/project/py-thesaurus/)
+- [Implementation of Content Extraction via Tag Ratios (CETR) using Python](https://bitbucket.org/redpillscoder/cetr-py/src/master/)
 
 #### 💡 Patents
 - Disclosure on Radio Access Network - Filed
@@ -23,8 +24,6 @@ I'm Sleeba Paul, currently working as a Machine Learning Engineer at [Ericsson G
 
 - [Identification and classification of microgrid disturbances in a hybrid distributed generation system using wavelet transform](https://ieeexplore.ieee.org/document/7854066)
 - [Islanding Detection in Grid-Connected 100 KW Photovoltaic System Using Wavelet Transform](https://www.researchgate.net/publication/309703860_Islanding_Detection_in_Grid-Connected_100_KW_Photovoltaic_System_Using_Wavelet_Transform)
-- [PyThesaurus - A pip package to retreive synonyms, definition etc. from web (Archived)](https://pypi.org/project/py-thesaurus/)
-- [Implementation of Content Extraction via Tag Ratios (CETR) using Python](https://bitbucket.org/redpillscoder/cetr-py/src/master/)
 
 #### 📫 How to reach me
 
