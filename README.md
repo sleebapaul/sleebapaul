@@ -1,4 +1,4 @@
-I'm Sleeba Paul, currently working as a Machine Learning Engineer at [Ericsson Global AI Accelerator](https://www.ericsson.com/en/press-releases/2/2018/12/ericsson-establishes-a-global-artificial-intelligence-accelerator-gaia-in-india). 
+I'm Sleeba Paul, currently working as a Senior Machine Learning Engineer at [Docket AI](https://www.docketai.com). 
 
 #### 🎤 Talks
 
@@ -25,6 +25,7 @@ I'm Sleeba Paul, currently working as a Machine Learning Engineer at [Ericsson G
 
 #### 🔬 Research Papers 
 
+- 
 - [Identification and classification of microgrid disturbances in a hybrid distributed generation system using wavelet transform](https://ieeexplore.ieee.org/document/7854066)
 - [Islanding Detection in Grid-Connected 100 KW Photovoltaic System Using Wavelet Transform](https://www.researchgate.net/publication/309703860_Islanding_Detection_in_Grid-Connected_100_KW_Photovoltaic_System_Using_Wavelet_Transform)
 
